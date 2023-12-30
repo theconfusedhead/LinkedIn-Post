@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Roboto:wght@500&display=swap');
+
+*{
+    font-family: 'Outfit', sans-serif;
+} */
+.mainBox{
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 1px;
+    width: 600px;
+}
+.companyName{
+    text-transform: uppercase;
+    color: #007CC1;
+}
+.alert{
+    color: red;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    text-align: center;
+}
+.footerIcon{
+    font-size: 20px;
+    padding: 2px;
+}
+.fa-linkedin{
+    color: #0077b5;
+}
+.fa-telegram{
+    color: #0088cc;
+}
