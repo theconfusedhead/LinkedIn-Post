@@ -5,9 +5,12 @@
 } */
 .mainBox{
     margin: 20px auto;
-    border: 2px solid black;
-    padding: 1px;
+       padding: 1px;
     width: 600px;
+}
+.contentBox{
+    margin: 20px;
+    border: 2px solid black;
 }
 .companyName{
     text-transform: uppercase;
